@@ -1,2 +1,2 @@
 # smart-traffic-management
-AI based adaptivesignal traffic and centralized dashboard for urban congestion
+AI based adaptive signal traffic and centralized dashboard for urban congestion
