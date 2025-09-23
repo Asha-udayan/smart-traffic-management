@@ -22,6 +22,5 @@ AI-based adaptive traffic signal + centralized dashboard + smart routing app.
 - Flutter (app)
 
 ## Demo
-[Add screenshots or video link]
 
 
